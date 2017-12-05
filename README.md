@@ -1,3 +1,6 @@
+Slides are available at:
+
+[https://andreatp.github.io/meetupLX/](https://andreatp.github.io/meetupLX/#/)
 
 To run the example you need node and sbt installed.
 
